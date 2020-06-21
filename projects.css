@@ -1,0 +1,31 @@
+.bio
+{
+    font-size: 20px;
+}
+
+
+.card
+{
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+
+.card-title
+{
+    margin-bottom: unset;
+}
+
+.card-text
+{
+    margin-top: 20px;
+}
+
+.vis-badge
+{
+    background: #369131;
+}
+
+a.btn
+{
+    text-align: right;
+}
